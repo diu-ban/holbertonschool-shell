@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BEST="School" >> /etc/bashrc
+export BEST="School"
